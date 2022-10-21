@@ -1,0 +1,22 @@
+{
+  "name":"Amit Thakur Photography",
+  "short_name":"Amit Thakur Photography",
+  "start_url":"index.html",
+  "display":"standalone",
+  "background_color":"#5900b3",
+  "theme_color":"black",
+  "scope": ".",
+  "description":"Amit Thakur Photography",
+  "icons":[
+  {
+  "src":"images/amit-thakur192.png",                     
+  "sizes":"192x192",
+  "type":"image/png"
+  },
+  {
+  "src":"images/amit-thakur512.png",
+  "sizes":"512x512",
+  "type":"image/png"
+  }
+]
+}
